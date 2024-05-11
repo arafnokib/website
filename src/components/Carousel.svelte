@@ -88,9 +88,17 @@
   </div>
 </div>
 
-<!-- when icon is clicked (active state) it will get slightly darker -->
 <style>
   .carousel-control span.material-symbols-outlined:active {
     filter: brightness(70%);
+  }
+  .image {
+    height: 450px; 
+  }
+  
+  .carousel-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 </style>
