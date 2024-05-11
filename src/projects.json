@@ -16,26 +16,26 @@
     },
 
     {
-        "title":"Long Island City",
-        "image_URL": "https://images.ctfassets.net/1aemqu6a6t65/4RdizARCMDamkAGUZK8cfL/748af15a6813c5e168bdbbc162f5c020/Long_Island_CIty-Queens-NYC-Photo-Michelle-Rick.jpg",
-        "description":"Proj 3 descript We built something that yadda yadda blah blah blah to blah blah bloobedy blah blah blah.",
-        "project_link":"https://github.com/flushingtech/website",
+        "title":"Stock Predictor",
+        "image_URL": "https://www.techopedia.com/wp-content/uploads/2023/10/Screenshot-2023-10-12-at-16.48.23.png",
+        "description":"Stock Predictor is an advanced machine learning application designed to forecast stock market trends and empower investors with data-driven insights. Leveraging cutting-edge algorithms and historical market data, It equips users with predictive analytics to make informed investment decisions.",
+        "project_link":"https://github.com/flushingtech/Stock-Predictor",
         "team": ["Anne Hathaway","Denzel Washington","Justin JB Bieber"]
     },
 
     {
-        "title":"Forest Hills",
-        "image_URL": "https://upload.wikimedia.org/wikipedia/commons/6/65/Forest_Hills_%28March_2018%29.jpg",
-        "description":"Proj 4 ddescription. We built something that yadda yadda blah blah blah to blah blah bloobedy blah blah blah.",
-        "project_link":"https://github.com/flushingtech/website",
+        "title":"Idea Processor",
+        "image_URL": "https://www.agicent.com/assets/images/app-ideas/gig-economy-app-idea.png",
+        "description":"Our idea processor is a dynamic and collaborative application designed to streamline the process of generating, refining, and implementing ideas within a tech group or team. It serves as a centralized platform where team members can brainstorm, share, evaluate, and prioritize ideas, fostering innovation and driving project success.",
+        "project_link":"https://github.com/flushingtech/IdeaProcessor",
         "team": ["Anne Hathaway","Denzel Washington","Justin JB Bieber"]
     },
 
     {
-        "title":"Title 5",
-        "image_URL": "path",
-        "description":"Project 5 desciption. We built something that yadda yadda blah blah blah to blah blah bloobedy blah blah blah.",
-        "project_link":"https://github.com/flushingtech/website",
+        "title":"MakerSuite Project Generator",
+        "image_URL": "https://miro.medium.com/v2/resize:fit:1400/0*LEpP96ndBqHC-3ut",
+        "description":"MakerSuite Project Generator is an innovative application designed to inspire and assist participants in hackathons and creative workshops by generating project ideas based on broader topics. Whether participants are looking to tackle societal challenges, explore emerging technologies, or innovate in a specific domain, MakerSuite provides a curated list of project ideas to kickstart their creative journey.",
+        "project_link":"https://github.com/flushingtech/makersuite-topic-generator",
         "team": ["Anne Hathaway", "Denzel Washington", "Justin JB Bieber"]
     }
 
